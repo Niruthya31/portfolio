@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Web developer Intern",
+      "organisation": "Learnovate Ecommerce",
+      "startDate": "Sep 2021",
+      "endDate": "Oct 2021",
+      "experiences": ["Developed e-commerce features using HTML, CSS, JavaScript, and React.", "Optimized platform performance and resolved technical issues."],
+      "imageSrc": "history/learnovate.jpg"
+    },
+    {
+      "role": "Java developer Intern ",
+      "organisation": "Tas Innovation",
+      "startDate": "Jul 2023",
+      "endDate": "Aug, 2023",
+      "experiences": ["Enhanced Java applications and performance.", "Resolved technical issues and bugs."],
+      "imageSrc": "history/tas.jpg"
+    }
+  ]

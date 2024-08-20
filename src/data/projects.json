@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This project involved developing an e-commerce website to apply and enhance skills in the latest web technologies and frameworks.",
+    "skills": ["React"]
+   
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a responsive portfolio using React to highlight my skills and projects, demonstrating expertise in modern web development.",
+    "skills": ["Frontend"]
+    
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "For my college final year project, which was fully based on Python, I developed the entire website using frontend technologies, ensuring a seamless user interface and experience.",
+    "skills": ["Frontend"]
+   
+  }
+]
